@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7987332038964877461
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 111296, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 152830, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 168588, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 176238, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 177220, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 194306, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_Name
+      value: SD_Tiger-I_2.0
+      objectReference: {fileID: 0}
+    - target: {fileID: 194306, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -205.6984
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 87.38331
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 424476, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11498094, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
+      propertyPath: id
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4445888735938296226, guid: 37011bb60ee4c374a96651f3a67b4ade,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 4577377733594319920, guid: 37011bb60ee4c374a96651f3a67b4ade,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6484269398775636467, guid: 37011bb60ee4c374a96651f3a67b4ade,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6484269398775636467, guid: 37011bb60ee4c374a96651f3a67b4ade,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37011bb60ee4c374a96651f3a67b4ade, type: 3}
