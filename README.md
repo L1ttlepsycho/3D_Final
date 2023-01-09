@@ -36,7 +36,7 @@
 
 *AI行动的状态机如下：*
 
-![SVM]()
+![SVM](https://github.com/L1ttlepsycho/3D_Final/blob/final/Final-Page-1.jpg)
 
 
 
@@ -172,7 +172,7 @@ Navmesh调参如下：
 
 Aim_Control与其他有关脚本的联动
 
-![关系图]()
+![关系图](https://github.com/L1ttlepsycho/3D_Final/blob/final/Final-%E7%AC%AC%202%20%E9%A1%B5.jpg)
 
 通过阅读代码我们发现，只需要设置Aiming_Control中的Target有关变量，就可以实现AI的瞄准。
 
