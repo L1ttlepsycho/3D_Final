@@ -162,7 +162,7 @@ public class AIBehaviour : MonoBehaviour
 
 Navmesh调参如下：
 
-![Inspector]()
+![参数](https://github.com/L1ttlepsycho/3D_Final/blob/final/Param.png)
 
 由于NavMeshSurface不具有我需要的某些特性，比如能够设定距离目标多少米就停下，于是没有使用NavMeshSurface，不然就能够在游戏中实现树木被毁坏后更新AI导航了。
 
