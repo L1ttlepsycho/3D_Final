@@ -1,7 +1,7 @@
 # AI坦克对战
 使用Kawaii Tank 2.0素材实现
 
-*演示视频传送门：*https://www.bilibili.com/video/BV1h14y137Sh/
+*演示视频传送门：* https://www.bilibili.com/video/BV1h14y137Sh/
 ## 具体要求
 1. 使用“感知-思考-行为”模型，建模 AI 坦克
 2. 场景中要放置一些障碍阻挡对手视线
