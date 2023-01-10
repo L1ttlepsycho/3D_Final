@@ -43,7 +43,7 @@
 **寻路与巡逻**
 
 寻路比较简单，可以参照standard asset中ThirdPersonAI的脚本进行编写
-```
+```c#
 public class AIBehaviour : MonoBehaviour
     {
         public UnityEngine.AI.NavMeshAgent agent { get; private set; }             // the navmesh agent required for the path finding
@@ -177,7 +177,7 @@ Aim_Control与其他有关脚本的联动
 通过阅读代码我们发现，只需要设置Aiming_Control中的Target有关变量，就可以实现AI的瞄准。
 
 就是他俩
-```
+```c#
 [HideInInspector] public Vector3 targetPosition; // Referred to from "Turret_Control_CS", "Cannon_Control_CS", "AimMarker_Control_CS".
 [HideInInspector] public Transform targetTransform; // Referred to from "AimMarker_Control_CS".
 ```
@@ -185,7 +185,7 @@ Aim_Control与其他有关脚本的联动
 **射击**
 
 射击这里采用了简化的处理方式，让AI只要炮弹填装完毕就进行射击，稍微修改一下Fire_Control脚本的```Update()```函数.
-```
+```c#
         void Update()
         {
             if (isLoaded == false)
